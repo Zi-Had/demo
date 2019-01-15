@@ -5,4 +5,8 @@ const me ={
 }
 console.log(me.name)
 
-const arr =[10,30,45,6,7,8,9,9,9,9,0]
+const girl = {
+    name:"Mim Sarker",
+    email:"Mimsarker@gmail.com",
+    phone:"01779256487"
+}
