@@ -10,3 +10,4 @@ const girl = {
     email:"Mimsarker@gmail.com",
     phone:"01779256487"
 }
+console.log(girl.name)
