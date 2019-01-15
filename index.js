@@ -4,3 +4,5 @@ const me ={
     phone:"0571501115"
 }
 console.log(me.name)
+console.log(me.email);
+
